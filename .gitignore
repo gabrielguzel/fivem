@@ -1,0 +1,27 @@
+# Ignore everything at the root except server/txData and .gitignore
+/*
+!.gitignore
+!server/
+
+# Within server/, ignore everything except txData
+/server/*
+!/server/txData/
+
+# Log files
+*.log
+**/logs/
+
+# Cache directories
+**/cache/
+**/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.cursor/
+.cache/

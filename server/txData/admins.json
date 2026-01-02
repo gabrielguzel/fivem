@@ -1,0 +1,22 @@
+[
+  {
+    "name": "classyrp",
+    "master": true,
+    "password_hash": "$2a$11$OysCmV/csJDUToxPxIZU1uP4mk2PQkc1.TvxPRkIzn7ipMQ3CfQOK",
+    "providers": {
+      "citizenfx": {
+        "id": "classyrp",
+        "identifier": "fivem:18189569",
+        "data": {
+          "sub": "f691417e9135ba84c9123e599c46a195",
+          "nameid": "https://forum.cfx.re/internal/user/18189569",
+          "name": "classyrp",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/classyrp/256/4584258_2.png",
+          "profile": "https://forum.cfx.re/u/classyrp"
+        }
+      }
+    },
+    "permissions": [],
+    "$schema": 1
+  }
+]
