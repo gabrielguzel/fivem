@@ -30,3 +30,7 @@ Thumbs.db
 *~
 .cursor/
 .cache/
+
+# REPL history files
+.replxx_history
+**/.replxx_history
